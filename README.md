@@ -1,1 +1,0 @@
-# POC Gatsby Image
